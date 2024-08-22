@@ -2,6 +2,8 @@
 
 **Mapty** is a dynamic web application designed to detect your location and allow you to log your running and cycling activities directly on a map! With Mapty, you can interact with a world map, record your workouts, and keep track of your fitness journey, all while enjoying a seamless and intuitive user experience.
 
+![mapty](mapty.png)
+
 ## 🌟 Features
 
 - **📍 Location Detection**: Automatically detects your current location as soon as you open the app.
@@ -43,6 +45,8 @@ All logged activities are marked on the map with relevant details. They are save
 
 ## 🚧 Challenges Faced
 Implementing Mapty was a challenging journey, involving the integration of location services with the Leaflet map and managing user data persistence with local storage. These complexities required careful planning, debugging, and a deep understanding of web technologies. Despite the challenges, the experience was incredibly rewarding and significantly enhanced my coding skills.
+
+![](Mapty-architecture-final.png)
 
 ## 🎉 Conclusion
 Mapty was created with passion and precision to make tracking your fitness activities fun and easy. I hope you find it as enjoyable to use as it was to create. Happy logging, and thank you for checking out Mapty!
